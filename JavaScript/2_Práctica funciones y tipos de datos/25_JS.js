@@ -8,4 +8,4 @@ function valorCantoTruco (canto) {
     else if (canto === "vale cuatro") {
       return 4;
     }
-  }
+  } 
