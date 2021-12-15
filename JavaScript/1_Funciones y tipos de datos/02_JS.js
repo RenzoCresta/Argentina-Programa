@@ -6,4 +6,4 @@ function anterior(numero) {
   }
   function anteriorDelTriple(numero) {
     return anterior(triple(numero))
-  } 
+  }  

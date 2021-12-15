@@ -11,4 +11,4 @@ function medallaSegunPuesto(puesto) {
     else {
       return "nada";
     }
-  }
+  } 

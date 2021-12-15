@@ -4,4 +4,4 @@ function maximo(numero1, numero2) {
     } else {
       return numero2;
     }
-  }
+  } 
