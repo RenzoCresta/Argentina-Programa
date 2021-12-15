@@ -1,0 +1,9 @@
+function escribirCartelito(titulo, nombre, apellido, corto) {
+    if(corto) { 
+     return titulo + " " + apellido;
+      
+   }
+    else {
+      return titulo + " " + nombre + " " + apellido;
+    }
+     }
